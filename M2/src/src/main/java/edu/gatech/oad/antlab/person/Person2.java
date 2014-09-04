@@ -10,7 +10,7 @@ import java.util.Collections;
  *  returns their name and a
  *  modified string 
  *
- * @author Bob
+ * @author Caleb
  * @version 1.1
  */
 public class Person2 {
